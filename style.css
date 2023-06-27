@@ -1,0 +1,25 @@
+.cor-1{
+    background-color: rgb(34, 255, 163);
+    color: white;
+}
+
+.cor-2{
+    background-color: rgb(207, 205, 205);
+}
+
+.containeri{
+    display: flex;
+    height: 100vh;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+.fonte{
+    font-size: 25px;
+    padding: 4px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
